@@ -732,7 +732,7 @@
 					"datatype": "objectId",
 					"param": "",
 					"pk": false,
-					"nn": true,
+					"nn": false,
 					"comment": "",
 					"defaultvalue": "",
 					"data": "",
@@ -928,7 +928,7 @@
 		"def_validationAction": "na",
 		"def_collation": "",
 		"def_others": "",
-		"lastSaved": "Mon Mar 27 2023 10:45:59 GMT+0200 (hora de verano de Europa central)"
+		"lastSaved": "Mon Mar 27 2023 11:10:09 GMT+0200 (hora de verano de Europa central)"
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1024,8 +1024,8 @@
 				},
 				"8d44b033-d6b9-498b-ab1b-ef186bfb6822": {
 					"referencedItemId": "8d44b033-d6b9-498b-ab1b-ef186bfb6822",
-					"x": 100,
-					"y": 90,
+					"x": 196,
+					"y": 114,
 					"gHeight": 189,
 					"gWidth": 251,
 					"color": "#ffffff",
